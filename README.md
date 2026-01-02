@@ -70,8 +70,11 @@ The system is a fully integrated prototype tested using representative loan data
 ---
 
 ## 📂 Repository Structure
+
+```text
 FinTrack-Loan-Compliance-System/
-├── fineract-develop/ # Backend (Apache Fineract + Spring Boot customizations)
-├── web-app/ # Frontend (AngularJS application)
+├── fineract-develop/    # Backend (Apache Fineract + Spring Boot customizations)
+├── web-app/             # Frontend (AngularJS application)
 ├── .gitignore
 └── README.md
+
