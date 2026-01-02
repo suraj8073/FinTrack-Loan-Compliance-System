@@ -77,7 +77,7 @@ FinTrack-Loan-Compliance-System/
 ├── web-app/             # Frontend (AngularJS application)
 ├── .gitignore
 └── README.md
-
+```
 ## 🖼️ System Screenshots
 
 ### Home Dashboard
