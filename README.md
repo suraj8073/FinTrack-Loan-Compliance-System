@@ -78,3 +78,18 @@ FinTrack-Loan-Compliance-System/
 ├── .gitignore
 └── README.md
 
+## 🖼️ System Screenshots
+
+### Home Dashboard
+![Home Dashboard](screenshots/home-dashboard.png)
+
+### Compliance Analytics Dashboard
+![Compliance Dashboard](screenshots/compliance-dashboard.png)
+
+### Client Loan & Savings Details
+![Client Loan Details](screenshots/client-loan-details.png)
+
+### Loan Data Entry Form
+![Loan Data Entry Form](screenshots/loan-data-entry-form.png)
+
+
