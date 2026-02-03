@@ -2,6 +2,12 @@
 
 FinTrack is an automated, web-based loan compliance verification system designed to reduce manual effort, improve accuracy, and accelerate regulatory compliance workflows in financial institutions. The system applies rule-based validation with real-time dashboards to ensure consistent and transparent compliance checking.
 
+![Java](https://img.shields.io/badge/Java-ED8B00)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1)
+![REST API](https://img.shields.io/badge/REST%20API-000000)
+
 ---
 
 ## 📌 Project Overview
